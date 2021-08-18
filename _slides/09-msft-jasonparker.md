@@ -3,7 +3,6 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+# Welcome to the Gun Show
 
-![herme-t-crabb](https://octodex.github.com/images/herme-t-crabb.png)
-{: .center}
+![gunshow](https://media4.giphy.com/media/ay7Wlm821yvOjpWjHx/giphy.gif?cid=ecf05e475mdf26m15obr1bp5ozr1b7jfbi21vyb72xbuvasd&rid=giphy.gif&ct=g)
